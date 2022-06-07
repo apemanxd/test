@@ -30,9 +30,9 @@
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
-<script type="text/javascript" src="data.json"></script> 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="data.json"></script>
 </head>
 
 <div class="container-nav">
@@ -101,15 +101,16 @@
 		</h2>
 		<p>
 			All of the vouches from my Discord, Steam or thirdparty servers have
-				been transferred to this page.
+			been transferred to this page.
 		</p>
 		<p>
 			For steam points prices and information, use my Calculator: <a
 				href="calculator/">vouch.apeman.us/calculator/</a>
 		</p>
 		<p>
-			For cheap Accounts services like <b>Netflix UHD/HD</b>, <b>NordVPN</b>, <b>Spotify</b>, <b>CrunchyRoll</b>, Discord <b>Classic</b> & <b>Nitro</b> and more! <br>Visit my
-				store for prices: <a href="https://store.apeman.us/">store.apeman.us</a>
+			For cheap Accounts services like <b>Netflix UHD/HD</b>, <b>NordVPN</b>, <b>Spotify</b>, <b>CrunchyRoll</b>,
+			Discord <b>Classic</b> & <b>Nitro</b> and more! <br>Visit my
+			store for prices: <a href="https://store.apeman.us/">store.apeman.us</a>
 		</p>
 	</div>
 
@@ -148,7 +149,8 @@
 						<thead>
 							<tr class="table100-head">
 								<th class="column1">ID
-									<i class="fas fa-sort" style="cursor: pointer" onclick="reverseTable()" aria-hidden="true"></i>
+									<i class="fas fa-sort" style="cursor: pointer" onclick="reverseTable()"
+										aria-hidden="true"></i>
 								</th>
 								<th class="column0"></th>
 								<th class="column2">Customer ID</th>
@@ -159,7 +161,7 @@
 							</tr>
 						</thead>
 						<tbody id="tbodyFinal">
-	<!--
+							<!--
 							<tr id="">
 								<td class="column1"></td>
 								<td class="column0"></td>
@@ -1681,42 +1683,73 @@
 </body>
 
 <script src="resources/js/main.js"></script>
-<script> 
-    var local_data = data; 
-    var row_data = ''; 
-    for (var i = local_data.length-1; i >=0; i--) { 
-		if (local_data[i].Links_comment === ""){
-			var row_data = row_data + '<tr id="'+ local_data[i].Number_ID +'">' + 
-		' <td class="column0">' + local_data[i].Number_ID + '</td>' +
-        ' <td class="column1">' + local_data[i].Number_ID + '</td>' +
-        ' <td class="column2">' + local_data[i].discord + '</td>' + 
-        ' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/'+local_data[i].ID64+'/awards">'+local_data[i].ID64+'</a>'+'</td>'+ 
-		' <td class="column4">' + '<b>[' + local_data[i].Points + ']</b>' + ' ' + local_data[i].Comment + '</td>' + 
-		' <td class="column5">' + local_data[i].Date + '</td>' + 
-		' <td class="column6">' + '<a target="_blank" href="'+local_data[i].Imgur+'">'+local_data[i].Imgur+'</a>'+'</td>' + 
-        '</tr>'; 
-		console.log("No custom text")
-		}
-	
+<script>
+	var local_data = data;
+	var row_data = '';
+	var link = "";
+	var accountID = "";
+	for (var i = local_data.length - 1; i >= 0; i--) {
 
-		else{
-			var row_data = row_data + '<tr id="'+ local_data[i].Number_ID +'">' + 
-		' <td class="column0">' + local_data[i].Number_ID + '</td>' +
-        ' <td class="column1">' + local_data[i].Number_ID + '</td>' +
-        ' <td class="column2">' + local_data[i].discord + '</td>' + 
-        ' <td class="column3">' + '<a target="_blank" href="'+local_data[i].ID64+'">'+local_data[i].Links_comment+'</a>'+'</td>'+ 
-		' <td class="column4">' + '<b>[' + local_data[i].Points + ']</b>' + ' ' + local_data[i].Comment + '</td>' + 
-		' <td class="column5">' + local_data[i].Date + '</td>' + 
-		' <td class="column6">' + '<a target="_blank" href="'+local_data[i].Imgur+'">'+local_data[i].Imgur+'</a>'+'</td>' + 
-        '</tr>'; 
-		console.log("Custom text")	
-    } 
+
+		if (length(local_data[i].CustomerID) === 18) {
+			accountID = (' <td class="column2">' + '<a target="_blank" href="https://lookup.guru/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
+		} else 
+		{
+			accountID = (' <td class="column2">' + local_data[i].CustomerID + '</td>');
+		}
+
+		if (local_data[i].Links_comment === "") {
+			link = (' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/' + local_data[i].AccountID + '/awards">' + local_data[i].AccountID + '</a>' + '</td>');
+			console.log("Steam URL for steam points")
+		} else {
+			link = (' <td class="column3">' + '<a target="_blank" href="' + local_data[i].AccountID + '">' + local_data[i].Links_comment + '</a>' + '</td>');
+			console.log("Custom link and text")
+		}
+
+
+
+		var row_data = row_data + '<tr id="' + local_data[i].Number_ID + '">' +
+			' <td class="column0">' + local_data[i].Number_ID + '</td>' +
+			' <td class="column1">' + local_data[i].Number_ID + '</td>' +
+			accountID + link +
+			' <td class="column4">' + '<b>[' + local_data[i].Service + ']</b>' + ' ' + local_data[i].Comment + '</td>' +
+			' <td class="column5">' + local_data[i].Date + '</td>' +
+			' <td class="column6">' + '<a target="_blank" href="' + local_data[i].Imgur + '">' + local_data[i].Imgur + '</a>' + '</td>' +
+
+			'</tr>';
+		/*
+		if (local_data[i].Links_comment === ""){
+				var row_data = row_data + '<tr id="'+ local_data[i].Number_ID +'">' + 
+			' <td class="column0">' + local_data[i].Number_ID + '</td>' +
+			' <td class="column1">' + local_data[i].Number_ID + '</td>' +
+			' <td class="column2">' + local_data[i].discord + '</td>' + 
+			' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/'+local_data[i].ID64+'/awards">'+local_data[i].ID64+'</a>'+'</td>'+ 
+			' <td class="column4">' + '<b>[' + local_data[i].Points + ']</b>' + ' ' + local_data[i].Comment + '</td>' + 
+			' <td class="column5">' + local_data[i].Date + '</td>' + 
+			' <td class="column6">' + '<a target="_blank" href="'+local_data[i].Imgur+'">'+local_data[i].Imgur+'</a>'+'</td>' + 
+			'</tr>'; 
+			console.log("No custom text")
+			}
+		
 	
-}
-     
-    var table_body_element = document.getElementById('tbodyFinal'); 
-    table_body_element.innerHTML = row_data; 
-    document.getElementById('my_table').appendChild(table_body_element); 
-  </script> 
+			else{
+				var row_data = row_data + '<tr id="'+ local_data[i].Number_ID +'">' + 
+			' <td class="column0">' + local_data[i].Number_ID + '</td>' +
+			' <td class="column1">' + local_data[i].Number_ID + '</td>' +
+			' <td class="column2">' + local_data[i].discord + '</td>' + 
+			' <td class="column3">' + '<a target="_blank" href="'+local_data[i].ID64+'">'+local_data[i].Links_comment+'</a>'+'</td>'+ 
+			' <td class="column4">' + '<b>[' + local_data[i].Points + ']</b>' + ' ' + local_data[i].Comment + '</td>' + 
+			' <td class="column5">' + local_data[i].Date + '</td>' + 
+			' <td class="column6">' + '<a target="_blank" href="'+local_data[i].Imgur+'">'+local_data[i].Imgur+'</a>'+'</td>' + 
+			'</tr>'; 
+			console.log("Custom text")
+		} */
+
+	}
+
+	var table_body_element = document.getElementById('tbodyFinal');
+	table_body_element.innerHTML = row_data;
+	document.getElementById('my_table').appendChild(table_body_element); 
+</script>
 
 </html>
