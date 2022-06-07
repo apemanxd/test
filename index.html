@@ -1690,7 +1690,7 @@
 	var accountID = "";
 	for (var i = local_data.length - 1; i >= 0; i--) {
 
-
+		//Finner Om det er discord ID
 		if (length(local_data[i].CustomerID) === 18) {
 			accountID = (' <td class="column2">' + '<a target="_blank" href="https://lookup.guru/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
 		} else 
@@ -1698,6 +1698,7 @@
 			accountID = (' <td class="column2">' + local_data[i].CustomerID + '</td>');
 		}
 
+		//Steam points URL or custom URL
 		if (local_data[i].Links_comment === "") {
 			link = (' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/' + local_data[i].AccountID + '/awards">' + local_data[i].AccountID + '</a>' + '</td>');
 			console.log("Steam URL for steam points")
