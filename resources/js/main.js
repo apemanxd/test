@@ -122,3 +122,7 @@ close.addEventListener('click', () => {
     popup.style.display = "none";
 })
 
+function length(integer) {
+  return (integer.toString().length);
+  
+}
