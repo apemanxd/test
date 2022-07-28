@@ -1,4 +1,4 @@
-﻿var data = [
+var data = [
     {
         "Number_ID": "1",
         "Date": "09/01/2022",
@@ -1722,7 +1722,11 @@
     {
         "Number_ID": "171",
         "Date": "12/06/2022",
+<<<<<<< HEAD
         "Comment": "",
+=======
+        "Comment": "Unknown",
+>>>>>>> a580658238c6d16c4a10c633f33291d1ae93982b
         "AccountID": "76561198399155386",
         "Links_comment": "",
         "CustomerID": "Unknown",
@@ -1968,6 +1972,7 @@
         "CustomerID": "860648204033851412",
         "Imgur": "https://imgur.com/a/xqOJURQ",
         "Service": "200k"
+<<<<<<< HEAD
     },
     {
         "Number_ID": "196",
@@ -2088,5 +2093,7 @@
         "CustomerID": "181306658348072960",
         "Imgur": "https://store.apeman.us",
         "Service": "10k"
+=======
+>>>>>>> a580658238c6d16c4a10c633f33291d1ae93982b
     }
 ]
