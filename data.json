@@ -1,9 +1,9 @@
 var data = [
     {
         "Number_ID": "1",
-        "Date": "09/01/2022",
+        "Date": "09-01-2022",
         "Comment": "[100k] vouch bought 100k from him",
-        "AccountID": "7,65612E+16",
+        "AccountID": "7.65612E+16",
         "Links_comment": "",
         "CustomerID": "Dalivex#3784",
         "Imgur": "https://i.ibb.co/p0BbHL3/Dalivex-3784.png",
@@ -11,9 +11,9 @@ var data = [
     },
     {
         "Number_ID": "2",
-        "Date": "11/01/2022",
+        "Date": "11-01-2022",
         "Comment": "[130k]: +vouch bought 130k today from @apeman#0001",
-        "AccountID": "7,65612E+16",
+        "AccountID": "7.65612E+16",
         "Links_comment": "",
         "CustomerID": "U-Smoked#0025",
         "Imgur": "https://i.ibb.co/CMY80XJ/U-Smoked-0025.png",
@@ -21,9 +21,9 @@ var data = [
     },
     {
         "Number_ID": "3",
-        "Date": "16/01/2022",
+        "Date": "16-01-2022",
         "Comment": "zachi",
-        "AccountID": "7,65612E+16",
+        "AccountID": "7.65612E+16",
         "Links_comment": "",
         "CustomerID": "zachi#1342",
         "Imgur": "",
@@ -31,9 +31,9 @@ var data = [
     },
     {
         "Number_ID": "4",
-        "Date": "18/01/2022",
+        "Date": "18-01-2022",
         "Comment": "磨傳#0007",
-        "AccountID": "7,65612E+16",
+        "AccountID": "7.65612E+16",
         "Links_comment": "",
         "CustomerID": "磨傳#0007",
         "Imgur": "",
@@ -41,9 +41,9 @@ var data = [
     },
     {
         "Number_ID": "5",
-        "Date": "18/01/2022",
+        "Date": "18-01-2022",
         "Comment": "zachi",
-        "AccountID": "7,65612E+16",
+        "AccountID": "7.65612E+16",
         "Links_comment": "",
         "CustomerID": "zachi#1342",
         "Imgur": "",
@@ -51,7 +51,7 @@ var data = [
     },
     {
         "Number_ID": "6",
-        "Date": "20/01/2022",
+        "Date": "20-01-2022",
         "Comment": "[120k] best steam awards seller no cap. Go first without fear. Bought 120k",
         "AccountID": "76561198000752300",
         "Links_comment": "",
@@ -61,7 +61,7 @@ var data = [
     },
     {
         "Number_ID": "7",
-        "Date": "20/01/2022",
+        "Date": "20-01-2022",
         "Comment": "[60k] Vouch got my 60k points",
         "AccountID": "76561198419409900",
         "Links_comment": "",
@@ -71,7 +71,7 @@ var data = [
     },
     {
         "Number_ID": "8",
-        "Date": "20/01/2022",
+        "Date": "20-01-2022",
         "Comment": "[120k]+rep sended 120k points very fast",
         "AccountID": "76561198051004300",
         "Links_comment": "",
@@ -81,7 +81,7 @@ var data = [
     },
     {
         "Number_ID": "9",
-        "Date": "02/02/2022",
+        "Date": "02-02-2022",
         "Comment": "U-Smoked#0025",
         "AccountID": "76561199232230200",
         "Links_comment": "",
@@ -91,7 +91,7 @@ var data = [
     },
     {
         "Number_ID": "10",
-        "Date": "02/02/2022",
+        "Date": "02-02-2022",
         "Comment": "ste#0526",
         "AccountID": "76561198872557900",
         "Links_comment": "",
@@ -101,7 +101,7 @@ var data = [
     },
     {
         "Number_ID": "11",
-        "Date": "02/02/2022",
+        "Date": "02-02-2022",
         "Comment": "+rep",
         "AccountID": "76561198375422700",
         "Links_comment": "",
@@ -111,7 +111,7 @@ var data = [
     },
     {
         "Number_ID": "12",
-        "Date": "04/02/2022",
+        "Date": "04-02-2022",
         "Comment": "frst",
         "AccountID": "76561199051122100",
         "Links_comment": "",
@@ -121,7 +121,7 @@ var data = [
     },
     {
         "Number_ID": "13",
-        "Date": "04/02/2022",
+        "Date": "04-02-2022",
         "Comment": "daydreaming#0188",
         "AccountID": "76561198330987200",
         "Links_comment": "",
@@ -131,7 +131,7 @@ var data = [
     },
     {
         "Number_ID": "14",
-        "Date": "05/02/2022",
+        "Date": "05-02-2022",
         "Comment": "stroganoff",
         "AccountID": "76561199211972300",
         "Links_comment": "",
@@ -141,7 +141,7 @@ var data = [
     },
     {
         "Number_ID": "15",
-        "Date": "06/02/2022",
+        "Date": "06-02-2022",
         "Comment": "fast and easy",
         "AccountID": "76561198014052700",
         "Links_comment": "",
@@ -151,7 +151,7 @@ var data = [
     },
     {
         "Number_ID": "16",
-        "Date": "06/02/2022",
+        "Date": "06-02-2022",
         "Comment": "smooth",
         "AccountID": "76561198348316700",
         "Links_comment": "",
@@ -161,7 +161,7 @@ var data = [
     },
     {
         "Number_ID": "17",
-        "Date": "06/02/2022",
+        "Date": "06-02-2022",
         "Comment": "Bryss#0001",
         "AccountID": "76561198050428668",
         "Links_comment": "",
@@ -171,7 +171,7 @@ var data = [
     },
     {
         "Number_ID": "18",
-        "Date": "06/02/2022",
+        "Date": "06-02-2022",
         "Comment": "Rippër#8055",
         "AccountID": "76561198030105282",
         "Links_comment": "",
@@ -181,7 +181,7 @@ var data = [
     },
     {
         "Number_ID": "19",
-        "Date": "07/02/2022",
+        "Date": "07-02-2022",
         "Comment": "Drifty#9999",
         "AccountID": "76561199234163318",
         "Links_comment": "",
@@ -191,7 +191,7 @@ var data = [
     },
     {
         "Number_ID": "20",
-        "Date": "11/02/2022",
+        "Date": "11-02-2022",
         "Comment": "march#0001",
         "AccountID": "76561199047083934",
         "Links_comment": "",
@@ -201,7 +201,7 @@ var data = [
     },
     {
         "Number_ID": "21",
-        "Date": "11/02/2022",
+        "Date": "11-02-2022",
         "Comment": "Dxwn#2680",
         "AccountID": "76561198139332858",
         "Links_comment": "",
@@ -211,7 +211,7 @@ var data = [
     },
     {
         "Number_ID": "22",
-        "Date": "11/02/2022",
+        "Date": "11-02-2022",
         "Comment": "user9736#8664",
         "AccountID": "76561198399155300",
         "Links_comment": "",
@@ -221,7 +221,7 @@ var data = [
     },
     {
         "Number_ID": "23",
-        "Date": "12/02/2022",
+        "Date": "12-02-2022",
         "Comment": "ze4#6488",
         "AccountID": "76561198283905739",
         "Links_comment": "",
@@ -231,7 +231,7 @@ var data = [
     },
     {
         "Number_ID": "24",
-        "Date": "13/02/2022",
+        "Date": "13-02-2022",
         "Comment": "Royama/ロヤマ#5198",
         "AccountID": "76561198800597775",
         "Links_comment": "",
@@ -241,7 +241,7 @@ var data = [
     },
     {
         "Number_ID": "25",
-        "Date": "14/02/2022",
+        "Date": "14-02-2022",
         "Comment": "internet sensation#3583",
         "AccountID": "76561198347140634",
         "Links_comment": "",
@@ -251,7 +251,7 @@ var data = [
     },
     {
         "Number_ID": "26",
-        "Date": "15/02/2022",
+        "Date": "15-02-2022",
         "Comment": "muddybuddy#0001",
         "AccountID": "76561198294617807",
         "Links_comment": "",
@@ -261,7 +261,7 @@ var data = [
     },
     {
         "Number_ID": "27",
-        "Date": "15/02/2022",
+        "Date": "15-02-2022",
         "Comment": "ZeroTwo#0002",
         "AccountID": "76561198181892917",
         "Links_comment": "",
@@ -271,7 +271,7 @@ var data = [
     },
     {
         "Number_ID": "28",
-        "Date": "15/02/2022",
+        "Date": "15-02-2022",
         "Comment": "ITSTHEANGELGUY#5630",
         "AccountID": "76561198991688065",
         "Links_comment": "",
@@ -281,7 +281,7 @@ var data = [
     },
     {
         "Number_ID": "29",
-        "Date": "16/02/2022",
+        "Date": "16-02-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561199193433567",
         "Links_comment": "",
@@ -291,7 +291,7 @@ var data = [
     },
     {
         "Number_ID": "30",
-        "Date": "16/02/2022",
+        "Date": "16-02-2022",
         "Comment": "fast and easy",
         "AccountID": "76561199205668737",
         "Links_comment": "",
@@ -301,7 +301,7 @@ var data = [
     },
     {
         "Number_ID": "31",
-        "Date": "17/02/2022",
+        "Date": "17-02-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561199125718942",
         "Links_comment": "",
@@ -311,7 +311,7 @@ var data = [
     },
     {
         "Number_ID": "32",
-        "Date": "17/02/2022",
+        "Date": "17-02-2022",
         "Comment": "smooth",
         "AccountID": "76561197963973848",
         "Links_comment": "",
@@ -321,7 +321,7 @@ var data = [
     },
     {
         "Number_ID": "33",
-        "Date": "20/02/2022",
+        "Date": "20-02-2022",
         "Comment": "+Mashallah",
         "AccountID": "76561199188226654",
         "Links_comment": "",
@@ -331,7 +331,7 @@ var data = [
     },
     {
         "Number_ID": "34",
-        "Date": "20/02/2022",
+        "Date": "20-02-2022",
         "Comment": "+rep, Sext beast. Super fast and easy!",
         "AccountID": "76561199214762805",
         "Links_comment": "",
@@ -341,7 +341,7 @@ var data = [
     },
     {
         "Number_ID": "35",
-        "Date": "21/02/2022",
+        "Date": "21-02-2022",
         "Comment": " My guys is the best!",
         "AccountID": "76561198395942549",
         "Links_comment": "",
@@ -351,7 +351,7 @@ var data = [
     },
     {
         "Number_ID": "36",
-        "Date": "22/02/2022",
+        "Date": "22-02-2022",
         "Comment": "Woof",
         "AccountID": "76561198033506125",
         "Links_comment": "",
@@ -361,7 +361,7 @@ var data = [
     },
     {
         "Number_ID": "37",
-        "Date": "23/02/2022",
+        "Date": "23-02-2022",
         "Comment": "Bought with TF2keys.+rep, thnx",
         "AccountID": "76561199193336790",
         "Links_comment": "",
@@ -371,7 +371,7 @@ var data = [
     },
     {
         "Number_ID": "38",
-        "Date": "24/02/2022",
+        "Date": "24-02-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561199188226654",
         "Links_comment": "",
@@ -381,7 +381,7 @@ var data = [
     },
     {
         "Number_ID": "39",
-        "Date": "24/02/2022",
+        "Date": "24-02-2022",
         "Comment": "Woof",
         "AccountID": "76561198117827567",
         "Links_comment": "",
@@ -391,7 +391,7 @@ var data = [
     },
     {
         "Number_ID": "40",
-        "Date": "24/02/2022",
+        "Date": "24-02-2022",
         "Comment": "+rep. ZOOOOOM",
         "AccountID": "76561198158177731",
         "Links_comment": "",
@@ -401,7 +401,7 @@ var data = [
     },
     {
         "Number_ID": "41",
-        "Date": "26/02/2022",
+        "Date": "26-02-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561199051926292",
         "Links_comment": "",
@@ -411,7 +411,7 @@ var data = [
     },
     {
         "Number_ID": "42",
-        "Date": "27/02/2022",
+        "Date": "27-02-2022",
         "Comment": "+rep, superfast!",
         "AccountID": "76561198796855884",
         "Links_comment": "",
@@ -421,7 +421,7 @@ var data = [
     },
     {
         "Number_ID": "43",
-        "Date": "28/02/2022",
+        "Date": "28-02-2022",
         "Comment": "fast and easy",
         "AccountID": "76561199160914278",
         "Links_comment": "",
@@ -431,7 +431,7 @@ var data = [
     },
     {
         "Number_ID": "44",
-        "Date": "01/03/2022",
+        "Date": "01-03-2022",
         "Comment": "Swag",
         "AccountID": "76561198338096743",
         "Links_comment": "",
@@ -441,7 +441,7 @@ var data = [
     },
     {
         "Number_ID": "45",
-        "Date": "02/03/2022",
+        "Date": "02-03-2022",
         "Comment": "+rep, superfast!",
         "AccountID": "76561198019384274",
         "Links_comment": "",
@@ -451,7 +451,7 @@ var data = [
     },
     {
         "Number_ID": "46",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": " My guys is the best!",
         "AccountID": "76561198393825591",
         "Links_comment": "",
@@ -461,7 +461,7 @@ var data = [
     },
     {
         "Number_ID": "47",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep steam points, buying again!",
         "AccountID": "76561198925608241",
         "Links_comment": "",
@@ -471,7 +471,7 @@ var data = [
     },
     {
         "Number_ID": "48",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "fast and easy",
         "AccountID": "76561198367885513",
         "Links_comment": "",
@@ -481,7 +481,7 @@ var data = [
     },
     {
         "Number_ID": "49",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep, superfast!",
         "AccountID": "76561198329850458",
         "Links_comment": "",
@@ -491,7 +491,7 @@ var data = [
     },
     {
         "Number_ID": "50",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "smooth",
         "AccountID": "76561198241405950",
         "Links_comment": "",
@@ -501,7 +501,7 @@ var data = [
     },
     {
         "Number_ID": "51",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561198369955703",
         "Links_comment": "",
@@ -511,7 +511,7 @@ var data = [
     },
     {
         "Number_ID": "52",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep friendly seller legit and fast!",
         "AccountID": "76561197996253664",
         "Links_comment": "",
@@ -521,7 +521,7 @@ var data = [
     },
     {
         "Number_ID": "53",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "Woof",
         "AccountID": "76561198365715371",
         "Links_comment": "",
@@ -531,7 +531,7 @@ var data = [
     },
     {
         "Number_ID": "54",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561199221819087",
         "Links_comment": "",
@@ -541,7 +541,7 @@ var data = [
     },
     {
         "Number_ID": "55",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "fast and easy",
         "AccountID": "76561199094784537",
         "Links_comment": "",
@@ -551,7 +551,7 @@ var data = [
     },
     {
         "Number_ID": "56",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+Mashallah",
         "AccountID": "76561199168656174",
         "Links_comment": "",
@@ -561,7 +561,7 @@ var data = [
     },
     {
         "Number_ID": "57",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep & vouch",
         "AccountID": "76561199163752268",
         "Links_comment": "",
@@ -571,7 +571,7 @@ var data = [
     },
     {
         "Number_ID": "58",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "smooth",
         "AccountID": "76561198158177731",
         "Links_comment": "",
@@ -581,7 +581,7 @@ var data = [
     },
     {
         "Number_ID": "59",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep, superfast!",
         "AccountID": "76561198129822860",
         "Links_comment": "",
@@ -591,7 +591,7 @@ var data = [
     },
     {
         "Number_ID": "60",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "fast and easy",
         "AccountID": "76561199128435432",
         "Links_comment": "",
@@ -601,7 +601,7 @@ var data = [
     },
     {
         "Number_ID": "61",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": " Fast. INSTANT! +vouch",
         "AccountID": "76561198273499709",
         "Links_comment": "",
@@ -611,7 +611,7 @@ var data = [
     },
     {
         "Number_ID": "62",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "fast and easy",
         "AccountID": "76561199078277555",
         "Links_comment": "",
@@ -621,7 +621,7 @@ var data = [
     },
     {
         "Number_ID": "63",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561199119540736",
         "Links_comment": "",
@@ -631,7 +631,7 @@ var data = [
     },
     {
         "Number_ID": "64",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "giveaway",
         "AccountID": "76561198026440953",
         "Links_comment": "",
@@ -641,7 +641,7 @@ var data = [
     },
     {
         "Number_ID": "65",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "giveaway",
         "AccountID": "76561198874711957",
         "Links_comment": "",
@@ -651,7 +651,7 @@ var data = [
     },
     {
         "Number_ID": "66",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "giveaway",
         "AccountID": "76561199138695958",
         "Links_comment": "",
@@ -661,7 +661,7 @@ var data = [
     },
     {
         "Number_ID": "67",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep steam points, buying again!",
         "AccountID": "76561199126541611",
         "Links_comment": "",
@@ -671,7 +671,7 @@ var data = [
     },
     {
         "Number_ID": "68",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561198221476484",
         "Links_comment": "",
@@ -681,7 +681,7 @@ var data = [
     },
     {
         "Number_ID": "69",
-        "Date": "18/03/2022",
+        "Date": "18-03-2022",
         "Comment": "+rep",
         "AccountID": "76561198335304615",
         "Links_comment": "",
@@ -691,7 +691,7 @@ var data = [
     },
     {
         "Number_ID": "70",
-        "Date": "05/04/2022",
+        "Date": "05-04-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561197985647746",
         "Links_comment": "",
@@ -701,7 +701,7 @@ var data = [
     },
     {
         "Number_ID": "71",
-        "Date": "05/04/2022",
+        "Date": "05-04-2022",
         "Comment": "+rep good service!",
         "AccountID": "76561198831235810",
         "Links_comment": "",
@@ -711,7 +711,7 @@ var data = [
     },
     {
         "Number_ID": "72",
-        "Date": "05/04/2022",
+        "Date": "05-04-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561199216626544",
         "Links_comment": "",
@@ -721,7 +721,7 @@ var data = [
     },
     {
         "Number_ID": "73",
-        "Date": "05/04/2022",
+        "Date": "05-04-2022",
         "Comment": "+rep",
         "AccountID": "76561197980457427",
         "Links_comment": "",
@@ -731,7 +731,7 @@ var data = [
     },
     {
         "Number_ID": "74",
-        "Date": "05/04/2022",
+        "Date": "05-04-2022",
         "Comment": "+rep",
         "AccountID": "76561198970858346",
         "Links_comment": "",
@@ -741,7 +741,7 @@ var data = [
     },
     {
         "Number_ID": "75",
-        "Date": "06/04/2022",
+        "Date": "06-04-2022",
         "Comment": "rep+ habibi ❤️",
         "AccountID": "76561199179041163",
         "Links_comment": "",
@@ -751,7 +751,7 @@ var data = [
     },
     {
         "Number_ID": "76",
-        "Date": "08/04/2022",
+        "Date": "08-04-2022",
         "Comment": "+rep steam points, buying again!",
         "AccountID": "76561197961953006",
         "Links_comment": "",
@@ -761,7 +761,7 @@ var data = [
     },
     {
         "Number_ID": "77",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": " Fast. INSTANT! +vouch",
         "AccountID": "76561198108869296",
         "Links_comment": "",
@@ -771,7 +771,7 @@ var data = [
     },
     {
         "Number_ID": "78",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "+rep",
         "AccountID": "76561197987124126",
         "Links_comment": "",
@@ -781,7 +781,7 @@ var data = [
     },
     {
         "Number_ID": "79",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "Bought with TF2keys.+rep, thnx",
         "AccountID": "76561197961554452",
         "Links_comment": "",
@@ -791,7 +791,7 @@ var data = [
     },
     {
         "Number_ID": "80",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "Bought 250k Shutterstock images",
         "AccountID": "76561197960692758",
         "Links_comment": "",
@@ -801,7 +801,7 @@ var data = [
     },
     {
         "Number_ID": "81",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "+rep good service!",
         "AccountID": "76561197972423214",
         "Links_comment": "",
@@ -811,7 +811,7 @@ var data = [
     },
     {
         "Number_ID": "82",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "+rep trusted",
         "AccountID": "76561198206866237",
         "Links_comment": "",
@@ -821,7 +821,7 @@ var data = [
     },
     {
         "Number_ID": "83",
-        "Date": "10/04/2022",
+        "Date": "10-04-2022",
         "Comment": "not",
         "AccountID": "76561198083474064",
         "Links_comment": "",
@@ -831,7 +831,7 @@ var data = [
     },
     {
         "Number_ID": "84",
-        "Date": "20/04/2022",
+        "Date": "20-04-2022",
         "Comment": "Steam lvl up, 10-50",
         "AccountID": "76561198802094680",
         "Links_comment": "",
@@ -841,7 +841,7 @@ var data = [
     },
     {
         "Number_ID": "85",
-        "Date": "26/04/2022",
+        "Date": "26-04-2022",
         "Comment": "+rep",
         "AccountID": "76561198989918015",
         "Links_comment": "",
@@ -851,7 +851,7 @@ var data = [
     },
     {
         "Number_ID": "86",
-        "Date": "26/04/2022",
+        "Date": "26-04-2022",
         "Comment": "+rep trusted",
         "AccountID": "76561197963418063",
         "Links_comment": "",
@@ -861,7 +861,7 @@ var data = [
     },
     {
         "Number_ID": "87",
-        "Date": "26/04/2022",
+        "Date": "26-04-2022",
         "Comment": "+rep steam points, buying again!",
         "AccountID": "76561198121030635",
         "Links_comment": "",
@@ -871,7 +871,7 @@ var data = [
     },
     {
         "Number_ID": "88",
-        "Date": "27/04/2022",
+        "Date": "27-04-2022",
         "Comment": "+rep good service!",
         "AccountID": "76561198810709473",
         "Links_comment": "",
@@ -881,7 +881,7 @@ var data = [
     },
     {
         "Number_ID": "89",
-        "Date": "28/05/2022",
+        "Date": "28-05-2022",
         "Comment": "sent 5k credits",
         "AccountID": "https://ogu.gg/Thread-SELLING-1-k-150k-stock",
         "Links_comment": "OGU Credit",
@@ -891,7 +891,7 @@ var data = [
     },
     {
         "Number_ID": "90",
-        "Date": "28/04/2022",
+        "Date": "28-04-2022",
         "Comment": "+rep trusted",
         "AccountID": "76561198802094680",
         "Links_comment": "",
@@ -901,7 +901,7 @@ var data = [
     },
     {
         "Number_ID": "91",
-        "Date": "29/04/2022",
+        "Date": "29-04-2022",
         "Comment": "vouching! Smooth and easy.",
         "AccountID": "76561199208206161",
         "Links_comment": "",
@@ -911,7 +911,7 @@ var data = [
     },
     {
         "Number_ID": "92",
-        "Date": "01/05/2022",
+        "Date": "01-05-2022",
         "Comment": "+rep fast and easy",
         "AccountID": "76561199230747173",
         "Links_comment": "",
@@ -921,7 +921,7 @@ var data = [
     },
     {
         "Number_ID": "93",
-        "Date": "03/05/2022",
+        "Date": "03-05-2022",
         "Comment": "+rep friendly seller legit and fast!",
         "AccountID": "76561198185807445",
         "Links_comment": "",
@@ -931,7 +931,7 @@ var data = [
     },
     {
         "Number_ID": "94",
-        "Date": "03/05/2022",
+        "Date": "03-05-2022",
         "Comment": " Got the amount I wanted. Went first and was fast!",
         "AccountID": "76561199273689888",
         "Links_comment": "",
@@ -941,7 +941,7 @@ var data = [
     },
     {
         "Number_ID": "95",
-        "Date": "04/05/2022",
+        "Date": "04-05-2022",
         "Comment": "vouching! Smooth and easy.",
         "AccountID": "76561198824005430",
         "Links_comment": "",
@@ -951,7 +951,7 @@ var data = [
     },
     {
         "Number_ID": "96",
-        "Date": "05/05/2022",
+        "Date": "05-05-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561198109547703",
         "Links_comment": "",
@@ -961,7 +961,7 @@ var data = [
     },
     {
         "Number_ID": "97",
-        "Date": "05/05/2022",
+        "Date": "05-05-2022",
         "Comment": "+rep steam points,",
         "AccountID": "76561199082946752",
         "Links_comment": "",
@@ -971,7 +971,7 @@ var data = [
     },
     {
         "Number_ID": "98",
-        "Date": "06/05/2022",
+        "Date": "06-05-2022",
         "Comment": "+rep trusted",
         "AccountID": "76561199027806500",
         "Links_comment": "",
@@ -981,7 +981,7 @@ var data = [
     },
     {
         "Number_ID": "99",
-        "Date": "09/05/2022",
+        "Date": "09-05-2022",
         "Comment": " +rep steam points",
         "AccountID": "76561197999465776",
         "Links_comment": "",
@@ -991,7 +991,7 @@ var data = [
     },
     {
         "Number_ID": "100",
-        "Date": "10/05/2022",
+        "Date": "10-05-2022",
         "Comment": "rep+ habibi ❤️",
         "AccountID": "76561198974664858",
         "Links_comment": "",
@@ -1001,7 +1001,7 @@ var data = [
     },
     {
         "Number_ID": "101",
-        "Date": "11/05/2022",
+        "Date": "11-05-2022",
         "Comment": "+rep steam points, buying again!",
         "AccountID": "76561198798879879",
         "Links_comment": "",
@@ -1011,7 +1011,7 @@ var data = [
     },
     {
         "Number_ID": "102",
-        "Date": "13/05/2022",
+        "Date": "13-05-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561199238914541",
         "Links_comment": "",
@@ -1021,7 +1021,7 @@ var data = [
     },
     {
         "Number_ID": "103",
-        "Date": "14/05/2022",
+        "Date": "14-05-2022",
         "Comment": "+rep steam points,",
         "AccountID": "76561198337545555",
         "Links_comment": "",
@@ -1031,7 +1031,7 @@ var data = [
     },
     {
         "Number_ID": "104",
-        "Date": "14/05/2022",
+        "Date": "14-05-2022",
         "Comment": "+rep trusted",
         "AccountID": "76561199124524285",
         "Links_comment": "",
@@ -1041,7 +1041,7 @@ var data = [
     },
     {
         "Number_ID": "105",
-        "Date": "14/05/2022",
+        "Date": "14-05-2022",
         "Comment": " +rep steam points",
         "AccountID": "76561199262073904",
         "Links_comment": "",
@@ -1051,7 +1051,7 @@ var data = [
     },
     {
         "Number_ID": "106",
-        "Date": "15/05/2022",
+        "Date": "15-05-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561198073995564",
         "Links_comment": "",
@@ -1061,7 +1061,7 @@ var data = [
     },
     {
         "Number_ID": "107",
-        "Date": "16/05/2022",
+        "Date": "16-05-2022",
         "Comment": "Woof",
         "AccountID": "76561197965364115",
         "Links_comment": "",
@@ -1071,7 +1071,7 @@ var data = [
     },
     {
         "Number_ID": "108",
-        "Date": "17/05/2022",
+        "Date": "17-05-2022",
         "Comment": " Fast. INSTANT! +vouch",
         "AccountID": "76561199052613893",
         "Links_comment": "",
@@ -1081,7 +1081,7 @@ var data = [
     },
     {
         "Number_ID": "109",
-        "Date": "17/05/2022",
+        "Date": "17-05-2022",
         "Comment": "rep+ habibi ❤️",
         "AccountID": "76561199287484142",
         "Links_comment": "",
@@ -1091,7 +1091,7 @@ var data = [
     },
     {
         "Number_ID": "110",
-        "Date": "19/05/2022",
+        "Date": "19-05-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561198165167714",
         "Links_comment": "",
@@ -1101,7 +1101,7 @@ var data = [
     },
     {
         "Number_ID": "111",
-        "Date": "21/05/2022",
+        "Date": "21-05-2022",
         "Comment": "Woof",
         "AccountID": "76561198035947972",
         "Links_comment": "",
@@ -1111,7 +1111,7 @@ var data = [
     },
     {
         "Number_ID": "112",
-        "Date": "21/05/2022",
+        "Date": "21-05-2022",
         "Comment": "+rep fast and easy",
         "AccountID": "76561199225563996",
         "Links_comment": "",
@@ -1121,7 +1121,7 @@ var data = [
     },
     {
         "Number_ID": "113",
-        "Date": "21/05/2022",
+        "Date": "21-05-2022",
         "Comment": "Sold me steam points, great guy and highly recomend",
         "AccountID": "76561199238054874",
         "Links_comment": "",
@@ -1131,7 +1131,7 @@ var data = [
     },
     {
         "Number_ID": "114",
-        "Date": "27/05/2022",
+        "Date": "27-05-2022",
         "Comment": "Woof",
         "AccountID": "76561199203483735",
         "Links_comment": "",
@@ -1141,7 +1141,7 @@ var data = [
     },
     {
         "Number_ID": "115",
-        "Date": "27/05/2022",
+        "Date": "27-05-2022",
         "Comment": "Woof",
         "AccountID": "76561198031533199",
         "Links_comment": "",
@@ -1151,7 +1151,7 @@ var data = [
     },
     {
         "Number_ID": "116",
-        "Date": "27/05/2022",
+        "Date": "27-05-2022",
         "Comment": "Smooth and fast",
         "AccountID": "76561198854163441",
         "Links_comment": "",
@@ -1161,7 +1161,7 @@ var data = [
     },
     {
         "Number_ID": "117",
-        "Date": "27/05/2022",
+        "Date": "27-05-2022",
         "Comment": "Safe and easy",
         "AccountID": "76561199031149599",
         "Links_comment": "",
@@ -1171,7 +1171,7 @@ var data = [
     },
     {
         "Number_ID": "118",
-        "Date": "27/05/2022",
+        "Date": "27-05-2022",
         "Comment": "Trust is key. My man is the besty <3",
         "AccountID": "76561199238054874",
         "Links_comment": "",
@@ -1181,7 +1181,7 @@ var data = [
     },
     {
         "Number_ID": "119",
-        "Date": "28/05/2022",
+        "Date": "28-05-2022",
         "Comment": "Fast deal with SMS",
         "AccountID": "https://t.me/jjj77225",
         "Links_comment": "@jjj77225",
@@ -1191,7 +1191,7 @@ var data = [
     },
     {
         "Number_ID": "118",
-        "Date": "28/05/2022",
+        "Date": "28-05-2022",
         "Comment": "Fast and easy",
         "AccountID": "76561198031533199",
         "Links_comment": "",
@@ -1201,7 +1201,7 @@ var data = [
     },
     {
         "Number_ID": "119",
-        "Date": "28/05/2022",
+        "Date": "28-05-2022",
         "Comment": "Fast and easy SMS verification",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=26640",
         "Links_comment": "Denzel",
@@ -1211,7 +1211,7 @@ var data = [
     },
     {
         "Number_ID": "120",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "Easy deal",
         "AccountID": "76561198031533199",
         "Links_comment": "",
@@ -1221,7 +1221,7 @@ var data = [
     },
     {
         "Number_ID": "121",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "+rep 10k steam points",
         "AccountID": "76561199228683725",
         "Links_comment": "",
@@ -1231,7 +1231,7 @@ var data = [
     },
     {
         "Number_ID": "122",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "vouch @apeman bought 15 tf2 keys",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/75",
         "Links_comment": "Ticket #75",
@@ -1241,7 +1241,7 @@ var data = [
     },
     {
         "Number_ID": "123",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "vouch 120$ deal",
         "AccountID": "76561198407015498",
         "Links_comment": "",
@@ -1251,7 +1251,7 @@ var data = [
     },
     {
         "Number_ID": "124",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "$276 deal completed, thank you",
         "AccountID": "https://ogu.gg/f",
         "Links_comment": "",
@@ -1261,7 +1261,7 @@ var data = [
     },
     {
         "Number_ID": "125",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "+rep @apeman phone verification fast ez and cheap!",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/79",
         "Links_comment": "Ticket #79",
@@ -1271,7 +1271,7 @@ var data = [
     },
     {
         "Number_ID": "126",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "125 key deal, fast and went first. No MM as my man is the best!",
         "AccountID": "76561198394481615",
         "Links_comment": "",
@@ -1281,7 +1281,7 @@ var data = [
     },
     {
         "Number_ID": "127",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "12 key deal! Smooth",
         "AccountID": "76561199207143102",
         "Links_comment": "",
@@ -1291,7 +1291,7 @@ var data = [
     },
     {
         "Number_ID": "128",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "Went first. Fast and easy. Trust ❤️",
         "AccountID": "76561198368512122",
         "Links_comment": "",
@@ -1301,7 +1301,7 @@ var data = [
     },
     {
         "Number_ID": "129",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "Thank you <3",
         "AccountID": "76561198320858710",
         "Links_comment": "",
@@ -1311,7 +1311,7 @@ var data = [
     },
     {
         "Number_ID": "130",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "Best ape on the market. Fast and easy TF2 Deal 🍌",
         "AccountID": "76561198855898324",
         "Links_comment": "",
@@ -1321,7 +1321,7 @@ var data = [
     },
     {
         "Number_ID": "131",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "4 keys needed asap and mr Apeman provided. Safe <3",
         "AccountID": "76561198998984133",
         "Links_comment": "",
@@ -1331,7 +1331,7 @@ var data = [
     },
     {
         "Number_ID": "132",
-        "Date": "29/05/2022",
+        "Date": "29-05-2022",
         "Comment": "+rep @apeman fast and cheap!",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/81",
         "Links_comment": "Ticket #81",
@@ -1341,7 +1341,7 @@ var data = [
     },
     {
         "Number_ID": "133",
-        "Date": "30/05/2022",
+        "Date": "30-05-2022",
         "Comment": "+vouch @apeman safe!",
         "AccountID": "76561198375383592",
         "Links_comment": "",
@@ -1351,7 +1351,7 @@ var data = [
     },
     {
         "Number_ID": "134",
-        "Date": "30/05/2022",
+        "Date": "30-05-2022",
         "Comment": "Fast and easy deal for tf2",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/88",
         "Links_comment": "Ticket #88",
@@ -1361,7 +1361,7 @@ var data = [
     },
     {
         "Number_ID": "135",
-        "Date": "30/05/2022",
+        "Date": "30-05-2022",
         "Comment": "vouch for @apeman easy steam points, came quick with it too",
         "AccountID": "76561199294635312",
         "Links_comment": "",
@@ -1371,7 +1371,7 @@ var data = [
     },
     {
         "Number_ID": "136",
-        "Date": "30/05/2022",
+        "Date": "30-05-2022",
         "Comment": "SMS deal",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/94",
         "Links_comment": "Ticket #94",
@@ -1381,7 +1381,7 @@ var data = [
     },
     {
         "Number_ID": "137",
-        "Date": "30/05/2022",
+        "Date": "30-05-2022",
         "Comment": "vouch for apeman bought 100k steam points",
         "AccountID": "76561198069425281",
         "Links_comment": "",
@@ -1391,7 +1391,7 @@ var data = [
     },
     {
         "Number_ID": "138",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "+woolf",
         "AccountID": "76561197960346025",
         "Links_comment": "",
@@ -1401,7 +1401,7 @@ var data = [
     },
     {
         "Number_ID": "139",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "vouch for apeman went first for $300",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=428467",
         "Links_comment": "Ticket #96",
@@ -1411,7 +1411,7 @@ var data = [
     },
     {
         "Number_ID": "140",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "Sexies ape on site!",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=422951",
         "Links_comment": "Yuzumi",
@@ -1421,7 +1421,7 @@ var data = [
     },
     {
         "Number_ID": "141",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "went first 600 again user is legit",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=428467",
         "Links_comment": "hhhh0",
@@ -1431,7 +1431,7 @@ var data = [
     },
     {
         "Number_ID": "142",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "+rep @apeman 28x TF2 Keys, great seller, smooth deal",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/97",
         "Links_comment": "Ticket #97",
@@ -1441,7 +1441,7 @@ var data = [
     },
     {
         "Number_ID": "143",
-        "Date": "31/05/2022",
+        "Date": "31-05-2022",
         "Comment": "+rep @apeman bought more tf2 keys",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/99",
         "Links_comment": "Ticket #99",
@@ -1451,7 +1451,7 @@ var data = [
     },
     {
         "Number_ID": "144",
-        "Date": "01/06/2022",
+        "Date": "01-06-2022",
         "Comment": "Fast and easy 10 kpoints",
         "AccountID": "76561198976240077",
         "Links_comment": "",
@@ -1461,7 +1461,7 @@ var data = [
     },
     {
         "Number_ID": "145",
-        "Date": "01/06/2022",
+        "Date": "01-06-2022",
         "Comment": "vouch for @apeman verified my warzone acc, very patient and legit",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/103",
         "Links_comment": "Ticket #103",
@@ -1471,7 +1471,7 @@ var data = [
     },
     {
         "Number_ID": "146",
-        "Date": "01/06/2022",
+        "Date": "01-06-2022",
         "Comment": "vouch for apeman ez exchange!",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/106",
         "Links_comment": "Ticket #106",
@@ -1481,7 +1481,7 @@ var data = [
     },
     {
         "Number_ID": "147",
-        "Date": "02/06/2022",
+        "Date": "02-06-2022",
         "Comment": "vouch for apeman went first again no issues",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/107",
         "Links_comment": "Ticket #107",
@@ -1491,7 +1491,7 @@ var data = [
     },
     {
         "Number_ID": "148",
-        "Date": "02/06/2022",
+        "Date": "02-06-2022",
         "Comment": "Best ape! Another one!",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/110",
         "Links_comment": "Ticket #110",
@@ -1501,7 +1501,7 @@ var data = [
     },
     {
         "Number_ID": "149",
-        "Date": "05/06/2022",
+        "Date": "05-06-2022",
         "Comment": "bought tf2 cool guy Vouch",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/112",
         "Links_comment": "Ticket #112",
@@ -1511,7 +1511,7 @@ var data = [
     },
     {
         "Number_ID": "150",
-        "Date": "05/06/2022",
+        "Date": "05-06-2022",
         "Comment": "+ vouch bought $20 worth of credits",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=244187",
         "Links_comment": "Criteria",
@@ -1521,7 +1521,7 @@ var data = [
     },
     {
         "Number_ID": "151",
-        "Date": "05/06/2022",
+        "Date": "05-06-2022",
         "Comment": "vouch bought 100 keys + more via crypto",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1531,7 +1531,7 @@ var data = [
     },
     {
         "Number_ID": "152",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "vouch bought another 100 keys",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1541,7 +1541,7 @@ var data = [
     },
     {
         "Number_ID": "153",
-        "Date": "05/06/2022",
+        "Date": "05-06-2022",
         "Comment": "Nice sms service!",
         "AccountID": "https://t.me/alliknois",
         "Links_comment": "@alliknois",
@@ -1551,7 +1551,7 @@ var data = [
     },
     {
         "Number_ID": "154",
-        "Date": "05/06/2022",
+        "Date": "05-06-2022",
         "Comment": "vouch, bought a thread design pretty cool. thanks :)",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/116",
         "Links_comment": "Ticket #116",
@@ -1561,7 +1561,7 @@ var data = [
     },
     {
         "Number_ID": "155",
-        "Date": "06/06/2022",
+        "Date": "06-06-2022",
         "Comment": "phone verification fast ez and cheap!",
         "AccountID": "https://t.me/jjj77225",
         "Links_comment": "@jjj77225",
@@ -1571,7 +1571,7 @@ var data = [
     },
     {
         "Number_ID": "156",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "Quick and easy, very trust-worthy.",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=498868",
         "Links_comment": "ari",
@@ -1581,7 +1581,7 @@ var data = [
     },
     {
         "Number_ID": "157",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "big vouch, 10k points, really easy and smooth",
         "AccountID": "76561199319583776",
         "Links_comment": "",
@@ -1591,7 +1591,7 @@ var data = [
     },
     {
         "Number_ID": "158",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "vouch ty for the key and was quick easy and helpful",
         "AccountID": "76561198284101383",
         "Links_comment": "",
@@ -1601,7 +1601,7 @@ var data = [
     },
     {
         "Number_ID": "159",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "Fantastic TF2 Key Trader",
         "AccountID": "76561198136188721",
         "Links_comment": "",
@@ -1611,7 +1611,7 @@ var data = [
     },
     {
         "Number_ID": "160",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "vouch for apeman. Ez 400 USD exchange",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/119",
         "Links_comment": "Ticket #119",
@@ -1621,7 +1621,7 @@ var data = [
     },
     {
         "Number_ID": "161",
-        "Date": "07/06/2022",
+        "Date": "07-06-2022",
         "Comment": "vouch bought TONS of keys hes safe",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1631,7 +1631,7 @@ var data = [
     },
     {
         "Number_ID": "162",
-        "Date": "08/06/2022",
+        "Date": "08-06-2022",
         "Comment": "Sexy thread design!",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/122",
         "Links_comment": "Ticket #122",
@@ -1641,7 +1641,7 @@ var data = [
     },
     {
         "Number_ID": "163",
-        "Date": "08/06/2022",
+        "Date": "08-06-2022",
         "Comment": "ty for the keys monkey",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1651,7 +1651,7 @@ var data = [
     },
     {
         "Number_ID": "164",
-        "Date": "09/06/2022",
+        "Date": "09-06-2022",
         "Comment": "+rep 20k steam points super quick.",
         "AccountID": "76561199071050304",
         "Links_comment": "",
@@ -1661,7 +1661,7 @@ var data = [
     },
     {
         "Number_ID": "165",
-        "Date": "09/06/2022",
+        "Date": "09-06-2022",
         "Comment": "+rep 20k steam points super quick.",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/124",
         "Links_comment": "Ticket #124",
@@ -1671,7 +1671,7 @@ var data = [
     },
     {
         "Number_ID": "166",
-        "Date": "09/06/2022",
+        "Date": "09-06-2022",
         "Comment": "+rep 20k steam points, friendly and quick",
         "AccountID": "76561199080300578",
         "Links_comment": "",
@@ -1681,7 +1681,7 @@ var data = [
     },
     {
         "Number_ID": "167",
-        "Date": "09/06/2022",
+        "Date": "09-06-2022",
         "Comment": "thx again for 87 keys",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/127",
         "Links_comment": "Ticket #127",
@@ -1691,7 +1691,7 @@ var data = [
     },
     {
         "Number_ID": "168",
-        "Date": "10/06/2022",
+        "Date": "10-06-2022",
         "Comment": "50k points bought total now, very good service and fast. +rep",
         "AccountID": "76561197964377371",
         "Links_comment": "",
@@ -1701,7 +1701,7 @@ var data = [
     },
     {
         "Number_ID": "169",
-        "Date": "10/06/2022",
+        "Date": "10-06-2022",
         "Comment": "ez tf2 keys",
         "AccountID": "76561199072925304",
         "Links_comment": "",
@@ -1711,7 +1711,7 @@ var data = [
     },
     {
         "Number_ID": "170",
-        "Date": "10/06/2022",
+        "Date": "10-06-2022",
         "Comment": "+rep bought 50k steam points, quick and easy + friendly seller",
         "AccountID": "76561198194283939",
         "Links_comment": "",
@@ -1721,7 +1721,7 @@ var data = [
     },
     {
         "Number_ID": "171",
-        "Date": "12/06/2022",
+        "Date": "12-06-2022",
         "Comment": "",
         "AccountID": "76561198399155386",
         "Links_comment": "",
@@ -1731,7 +1731,7 @@ var data = [
     },
     {
         "Number_ID": "172",
-        "Date": "12/06/2022",
+        "Date": "12-06-2022",
         "Comment": "bought tf2 keys",
         "AccountID": "76561198016047078",
         "Links_comment": "",
@@ -1741,7 +1741,7 @@ var data = [
     },
     {
         "Number_ID": "173",
-        "Date": "12/06/2022",
+        "Date": "12-06-2022",
         "Comment": "+rep bought 30k for 10 keys <333",
         "AccountID": "76561199122070017",
         "Links_comment": "",
@@ -1751,7 +1751,7 @@ var data = [
     },
     {
         "Number_ID": "174",
-        "Date": "12/06/2022",
+        "Date": "12-06-2022",
         "Comment": "+rep bought sms veri, Very good service and fast",
         "AccountID": "https://t.me/paranoid",
         "Links_comment": "@paranoid",
@@ -1761,7 +1761,7 @@ var data = [
     },
     {
         "Number_ID": "175",
-        "Date": "13/06/2022",
+        "Date": "13-06-2022",
         "Comment": "phone verification fast ez and cheap!",
         "AccountID": "https://t.me/jjj77225",
         "Links_comment": "@jjj77225",
@@ -1771,7 +1771,7 @@ var data = [
     },
     {
         "Number_ID": "176",
-        "Date": "13/06/2022",
+        "Date": "13-06-2022",
         "Comment": "+rep",
         "AccountID": "76561198305137460",
         "Links_comment": "",
@@ -1781,7 +1781,7 @@ var data = [
     },
     {
         "Number_ID": "177",
-        "Date": "13/06/2022",
+        "Date": "13-06-2022",
         "Comment": "Fast and easy followers on Twitter",
         "AccountID": "https://t.me/jjj77225",
         "Links_comment": "@jjj77225",
@@ -1791,7 +1791,7 @@ var data = [
     },
     {
         "Number_ID": "178",
-        "Date": "13/06/2022",
+        "Date": "13-06-2022",
         "Comment": "+rep @apeman - nitro code, legit.",
         "AccountID": "https://ogu.gg/Kove",
         "Links_comment": "Kove",
@@ -1801,7 +1801,7 @@ var data = [
     },
     {
         "Number_ID": "179",
-        "Date": "13/06/2022",
+        "Date": "13-06-2022",
         "Comment": "+rep @apeman - bought ogu creds",
         "AccountID": "https://ogu.gg/Kove",
         "Links_comment": "Kove",
@@ -1811,7 +1811,7 @@ var data = [
     },
     {
         "Number_ID": "180",
-        "Date": "14/06/2022",
+        "Date": "14-06-2022",
         "Comment": "ty for the keys monkey",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1821,7 +1821,7 @@ var data = [
     },
     {
         "Number_ID": "181",
-        "Date": "14/06/2022",
+        "Date": "14-06-2022",
         "Comment": "+rep @apeman sold him tf2 keys",
         "AccountID": "76561199033699844",
         "Links_comment": "",
@@ -1831,7 +1831,7 @@ var data = [
     },
     {
         "Number_ID": "182",
-        "Date": "14/06/2022",
+        "Date": "14-06-2022",
         "Comment": " thanks for the points, bought more then 100k",
         "AccountID": "76561199031115828",
         "Links_comment": "",
@@ -1841,7 +1841,7 @@ var data = [
     },
     {
         "Number_ID": "183",
-        "Date": "14/06/2022",
+        "Date": "14-06-2022",
         "Comment": "vouch for the thread and help",
         "AccountID": "https://ogu.gg/member.php?action=profile&uid=362044",
         "Links_comment": "Tizzle",
@@ -1851,7 +1851,7 @@ var data = [
     },
     {
         "Number_ID": "184",
-        "Date": "14/06/2022",
+        "Date": "14-06-2022",
         "Comment": "thanks for the points, bought more then 100k",
         "AccountID": "76561199031115828",
         "Links_comment": "",
@@ -1861,7 +1861,7 @@ var data = [
     },
     {
         "Number_ID": "185",
-        "Date": "16/06/2022",
+        "Date": "16-06-2022",
         "Comment": "+woolf",
         "AccountID": "76561198136449742",
         "Links_comment": "",
@@ -1871,7 +1871,7 @@ var data = [
     },
     {
         "Number_ID": "186",
-        "Date": "16/06/2022",
+        "Date": "16-06-2022",
         "Comment": "+woolf",
         "AccountID": "76561198105040419",
         "Links_comment": "",
@@ -1881,7 +1881,7 @@ var data = [
     },
     {
         "Number_ID": "187",
-        "Date": "17/06/2022",
+        "Date": "17-06-2022",
         "Comment": "Fast and easy!",
         "AccountID": "76561197992207473",
         "Links_comment": "",
@@ -1891,7 +1891,7 @@ var data = [
     },
     {
         "Number_ID": "188",
-        "Date": "17/06/2022",
+        "Date": "17-06-2022",
         "Comment": "Best ape",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1901,7 +1901,7 @@ var data = [
     },
     {
         "Number_ID": "189",
-        "Date": "17/06/2022",
+        "Date": "17-06-2022",
         "Comment": "ez tf2 keys",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1911,7 +1911,7 @@ var data = [
     },
     {
         "Number_ID": "190",
-        "Date": "17/06/2022",
+        "Date": "17-06-2022",
         "Comment": "Ape is stealing my money :/",
         "AccountID": "https://t.me/randomtelegramok",
         "Links_comment": "@randomtelegramok",
@@ -1921,7 +1921,7 @@ var data = [
     },
     {
         "Number_ID": "191",
-        "Date": "19/06/2022",
+        "Date": "19-06-2022",
         "Comment": "+vouch @apeman [30k] steam points, great seller. fast answer",
         "AccountID": "76561198288844168",
         "Links_comment": "",
@@ -1931,7 +1931,7 @@ var data = [
     },
     {
         "Number_ID": "192",
-        "Date": "19/06/2022",
+        "Date": "19-06-2022",
         "Comment": "+woolf",
         "AccountID": "76561198858593387",
         "Links_comment": "",
@@ -1941,7 +1941,7 @@ var data = [
     },
     {
         "Number_ID": "193",
-        "Date": "25/06/2022",
+        "Date": "25-06-2022",
         "Comment": "+rep bought 20k steam points",
         "AccountID": "76561198816306847",
         "Links_comment": "",
@@ -1951,7 +1951,7 @@ var data = [
     },
     {
         "Number_ID": "194",
-        "Date": "25/06/2022",
+        "Date": "25-06-2022",
         "Comment": "+vouch @apeman [10k] steam points, great seller. coming back again for sure!",
         "AccountID": "76561198127981845",
         "Links_comment": "",
@@ -1961,7 +1961,7 @@ var data = [
     },
     {
         "Number_ID": "195",
-        "Date": "25/06/2022",
+        "Date": "25-06-2022",
         "Comment": "+vouch @apeman bought 200k steam post and it went fast en ez",
         "AccountID": "76561199211972325",
         "Links_comment": "",
@@ -1971,7 +1971,7 @@ var data = [
     },
     {
         "Number_ID": "196",
-        "Date": "26/06/2022",
+        "Date": "26-06-2022",
         "Comment": "vouch @apeman bought steam points",
         "AccountID": "76561197960689118",
         "Links_comment": "",
@@ -1981,7 +1981,7 @@ var data = [
     },
     {
         "Number_ID": "197",
-        "Date": "26/06/2022",
+        "Date": "26-06-2022",
         "Comment": "bought points Vouch by: bexley",
         "AccountID": "76561199013431235",
         "Links_comment": "",
@@ -1991,7 +1991,7 @@ var data = [
     },
     {
         "Number_ID": "198",
-        "Date": "26/06/2022",
+        "Date": "26-06-2022",
         "Comment": "Fast and easy steam points",
         "AccountID": "76561198376711672",
         "Links_comment": "",
@@ -2001,7 +2001,7 @@ var data = [
     },
     {
         "Number_ID": "199",
-        "Date": "27/06/2022",
+        "Date": "27-06-2022",
         "Comment": "Safe and easy",
         "AccountID": "76561197978119247",
         "Links_comment": "",
@@ -2011,7 +2011,7 @@ var data = [
     },
     {
         "Number_ID": "200",
-        "Date": "29/06/2022",
+        "Date": "29-06-2022",
         "Comment": "+vouch @apeman safe!",
         "AccountID": "76561199162596788",
         "Links_comment": "",
@@ -2021,7 +2021,7 @@ var data = [
     },
     {
         "Number_ID": "201",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch quick and easy very responsive account works perfectly",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "Netflix account",
@@ -2031,7 +2031,7 @@ var data = [
     },
     {
         "Number_ID": "202",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch @apeman 20k steam points, great seller. coming back again for sure!",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "",
@@ -2041,7 +2041,7 @@ var data = [
     },
     {
         "Number_ID": "203",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch @apeman and @herman 40k Steam Points, quick and clean. Nice services 😎",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "",
@@ -2051,7 +2051,7 @@ var data = [
     },
     {
         "Number_ID": "204",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch @apeman and @herman 10k points :catvibedance:",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "",
@@ -2061,7 +2061,7 @@ var data = [
     },
     {
         "Number_ID": "205",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch @apeman ipvanish :Dance:",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "Ipvanish",
@@ -2071,7 +2071,7 @@ var data = [
     },
     {
         "Number_ID": "206",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "Vouch 100k steam points",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "",
@@ -2081,12 +2081,212 @@ var data = [
     },
     {
         "Number_ID": "207",
-        "Date": "28/07/2022",
+        "Date": "28-07-2022",
         "Comment": "+vouch @apeman Quick and easy, nice services ",
         "AccountID": "https://store.apeman.us",
         "Links_comment": "",
         "CustomerID": "181306658348072960",
         "Imgur": "https://store.apeman.us",
         "Service": "10k"
+    },
+    {
+        "Number_ID": "208",
+        "Date": "28-07-2022",
+        "Comment": "+zenox",
+        "AccountID": "76561198268249438",
+        "Links_comment": "",
+        "CustomerID": "757042832736387114",
+        "Imgur": "https://imgur.com/a/51eOiRf",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "209",
+        "Date": "29-07-2022",
+        "Comment": "Fast and easy 10k points",
+        "AccountID": "76561198970439252",
+        "Links_comment": "",
+        "CustomerID": "729426851293823106",
+        "Imgur": "https://imgur.com/a/LzemSHa",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "210",
+        "Date": "29-07-2022",
+        "Comment": "SOOO happy. Amazing service",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/193",
+        "Links_comment": "Ticket #193",
+        "CustomerID": "709200530957926493",
+        "Imgur": "https://imgur.com/a/mdz7WAW",
+        "Service": "Design"
+    },
+    {
+        "Number_ID": "211",
+        "Date": "29-07-2022",
+        "Comment": "vouch for @apeman @Amin for the pfp and signature. @Amin got it done in no time and very customer-oriented. His work is bloody neat. Hire him!",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/195",
+        "Links_comment": "Ticket #195",
+        "CustomerID": "881699630411292742",
+        "Imgur": "https://imgur.com/a/BMNsAEI",
+        "Service": "Design"
+    },
+    {
+        "Number_ID": "212",
+        "Date": "31-07-2022",
+        "Comment": "+zenox",
+        "AccountID": "76561199196331074",
+        "Links_comment": "",
+        "CustomerID": "757042832736387114",
+        "Imgur": "https://imgur.com/a/St6m6uD",
+        "Service": "10k "
+    },
+    {
+        "Number_ID": "213",
+        "Date": "03-08-2022",
+        "Comment": "Vouch @apeman bought 20k steam points from him thx bro! :D",
+        "AccountID": "76561198319916207",
+        "Links_comment": "",
+        "CustomerID": "945762229159071754",
+        "Imgur": "https://imgur.com/a/1Wyjqif",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "214",
+        "Date": "03-08-2022",
+        "Comment": "Vouch @apeman bought 20k steam points from him thx bro! :D",
+        "AccountID": "76561198094341866",
+        "Links_comment": "",
+        "CustomerID": "945762229159071754",
+        "Imgur": "https://imgur.com/a/BBselw1",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "215",
+        "Date": "03-08-2022",
+        "Comment": "vouch @apeman 9.5k creds",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/201",
+        "Links_comment": "Ticket #201",
+        "CustomerID": "1004262905304318012",
+        "Imgur": "https://imgur.com/a/CNk3gno",
+        "Service": "9.5k credits"
+    },
+    {
+        "Number_ID": "216",
+        "Date": "03-08-2022",
+        "Comment": "vouch @apeman bought 20k points was quick and ez",
+        "AccountID": "76561199260896489",
+        "Links_comment": "",
+        "CustomerID": "261635995668054017",
+        "Imgur": "https://imgur.com/a/eRrnKLX",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "217",
+        "Date": "03-08-2022",
+        "Comment": "Vouch for @apeman & @Amin for the PFP & Banner. @Amin got it done really quick. Ty!",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/203",
+        "Links_comment": "Ticket #203",
+        "CustomerID": "986880674143281192",
+        "Imgur": "https://imgur.com/a/1qVpLxx",
+        "Service": "Design"
+    },
+    {
+        "Number_ID": "218",
+        "Date": "07-08-2022",
+        "Comment": "Fast +20k points",
+        "AccountID": "76561198099422050",
+        "Links_comment": "",
+        "CustomerID": "165966058254106625",
+        "Imgur": "https://imgur.com/a/Mk7Wd9l",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "219",
+        "Date": "07-08-2022",
+        "Comment": "@apeman, fast safe and reliable 100k",
+        "AccountID": "76561198274477128",
+        "Links_comment": "",
+        "CustomerID": "121344535610654722",
+        "Imgur": "https://imgur.com/a/YweKA5R",
+        "Service": "100k"
+    },
+    {
+        "Number_ID": "220",
+        "Date": "08-08-2022",
+        "Comment": "vouch for @apeman 20k steam points quick service",
+        "AccountID": "76561199311000319",
+        "Links_comment": "",
+        "CustomerID": "797192948067860511",
+        "Imgur": "https://imgur.com/a/vlo4JJs",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "221",
+        "Date": "08-08-2022",
+        "Comment": "Vouch @apeman 30k steam points",
+        "AccountID": "76561198083474064",
+        "Links_comment": "",
+        "CustomerID": "813801935223783444",
+        "Imgur": "https://imgur.com/a/UpXVwg1",
+        "Service": "30k"
+    },
+    {
+        "Number_ID": "222",
+        "Date": "10-08-2022",
+        "Comment": "Vouch 20k steam points",
+        "AccountID": "76561199215778663",
+        "Links_comment": "",
+        "CustomerID": "408035705441353741",
+        "Imgur": "https://imgur.com/a/oeslhFj",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "223",
+        "Date": "12-08-2022",
+        "Comment": "vouch for @apeman, bought 20k points",
+        "AccountID": "76561198189313163",
+        "Links_comment": "",
+        "CustomerID": "142861574439174144",
+        "Imgur": "https://imgur.com/a/6zEwTRO",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "224",
+        "Date": "15-08-2022",
+        "Comment": "I bought 20k Steam Points. Recieved them fast and easy",
+        "AccountID": "76561198838920569",
+        "Links_comment": "",
+        "CustomerID": "236020273713905664",
+        "Imgur": "https://imgur.com/a/jHQPesC",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "225",
+        "Date": "18-08-2022",
+        "Comment": "+rep very responsive and great service",
+        "AccountID": "76561198020113517",
+        "Links_comment": "Ticket #229",
+        "CustomerID": "364662900008157185",
+        "Imgur": "https://imgur.com/a/0QEeJj1",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "226",
+        "Date": "22-08-2022",
+        "Comment": "+Vouch for @apeman [30k] steam points. Professional service, really nice guy, this is my second purchase and I'm still very satisfied",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/229",
+        "Links_comment": "",
+        "CustomerID": "773159989757739048",
+        "Imgur": "https://imgur.com/a/g7e3mpZ",
+        "Service": "30k"
+    },
+    {
+        "Number_ID": "227",
+        "Date": "22-08-2022",
+        "Comment": "+rep @apeman sold tf2 keys quick deal",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/234",
+        "Links_comment": "Ticket #234",
+        "CustomerID": "966141345339146292",
+        "Imgur": "https://imgur.com/a/uyDhY7N",
+        "Service": "5x TF2 Keys"
     }
 ]
