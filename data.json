@@ -2264,7 +2264,7 @@ var data = [
         "Date": "18-08-2022",
         "Comment": "+rep very responsive and great service",
         "AccountID": "76561198020113517",
-        "Links_comment": "Ticket #229",
+        "Links_comment": "",
         "CustomerID": "364662900008157185",
         "Imgur": "https://imgur.com/a/0QEeJj1",
         "Service": "10k"
@@ -2274,7 +2274,7 @@ var data = [
         "Date": "22-08-2022",
         "Comment": "+Vouch for @apeman [30k] steam points. Professional service, really nice guy, this is my second purchase and I'm still very satisfied",
         "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/229",
-        "Links_comment": "",
+        "Links_comment": "Ticket #229",
         "CustomerID": "773159989757739048",
         "Imgur": "https://imgur.com/a/g7e3mpZ",
         "Service": "30k"
