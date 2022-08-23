@@ -1,4 +1,4 @@
-var data1 = [
+var data = [
     {
         "Number_ID": "1",
         "Date": "09-01-2022",
