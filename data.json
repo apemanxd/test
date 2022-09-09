@@ -2538,5 +2538,25 @@ var data = [
         "CustomerID": "963267258031960124",
         "Imgur": "https://imgur.com/a/zv23eUk",
         "Service": "$40 exchange"
+    },
+    {
+        "Number_ID": "253",
+        "Date": "09-09-2022",
+        "Comment": "+vouch bought 22 tf2 keys",
+        "AccountID": "76561199121411126",
+        "Links_comment": "",
+        "CustomerID": "417721311503056896",
+        "Imgur": "https://imgur.com/a/zOc3E75",
+        "Service": "22x TF2 Keys"
+    },
+    {
+        "Number_ID": "254",
+        "Date": "09-09-2022",
+        "Comment": "+vouch first 3k b4u",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/269",
+        "Links_comment": "Ticket #269",
+        "CustomerID": "967481415421800448",
+        "Imgur": "https://imgur.com/a/mrADtAS",
+        "Service": "$4000 B4U"
     }
 ]
