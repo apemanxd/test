@@ -2557,6 +2557,76 @@ var data = [
         "Links_comment": "Ticket #269",
         "CustomerID": "967481415421800448",
         "Imgur": "https://imgur.com/a/mrADtAS",
-        "Service": "$4000 B4U"
+        "Service": "$4000 B4U "
+    },
+    {
+        "Number_ID": "255",
+        "Date": "10-09-2022",
+        "Comment": "thanks for lvl3 boosts 10/10",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/270",
+        "Links_comment": "Ticket #270",
+        "CustomerID": "807942388114128917",
+        "Imgur": "https://imgur.com/a/hdsy9pM",
+        "Service": "Discord Server Boost"
+    },
+    {
+        "Number_ID": "256",
+        "Date": "10-09-2022",
+        "Comment": "ez 10k points",
+        "AccountID": "76561198341245997",
+        "Links_comment": "",
+        "CustomerID": "261635995668054017",
+        "Imgur": "https://imgur.com/a/X7BEa8Z",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "257",
+        "Date": "10-09-2022",
+        "Comment": "fast lvl 3 boost",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=3000",
+        "Links_comment": "Gismo",
+        "CustomerID": "725518388528414752",
+        "Imgur": "https://imgur.com/a/8XxdGv6",
+        "Service": "Discord Server Boost"
+    },
+    {
+        "Number_ID": "258",
+        "Date": "10-09-2022",
+        "Comment": "+vouch @apeman  5k credits great seller. coming back again for sure",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=481085",
+        "Links_comment": "downturn",
+        "CustomerID": "927072544060760134",
+        "Imgur": "https://ibb.co/NKcbhfw",
+        "Service": "5k credits"
+    },
+    {
+        "Number_ID": "259",
+        "Date": "10-09-2022",
+        "Comment": "smooth + fast deal",
+        "AccountID": "76561198951212741",
+        "Links_comment": "",
+        "CustomerID": "799809042621005845",
+        "Imgur": "https://imgur.com/a/UbBA9Up",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "260",
+        "Date": "11-09-2022",
+        "Comment": "smooth deal",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=181680",
+        "Links_comment": "cikaxx123mis70",
+        "CustomerID": "341548315512668160",
+        "Imgur": "https://imgur.com/a/sDymyIv",
+        "Service": "20x TF2 Keys"
+    },
+    {
+        "Number_ID": "",
+        "Date": "",
+        "Comment": "",
+        "AccountID": "",
+        "Links_comment": "",
+        "CustomerID": "969598264456405073",
+        "Imgur": "https://imgur.com/a/sfAMNhC",
+        "Service": "$40 exchange"
     }
 ]
