@@ -2748,5 +2748,55 @@ var data = [
         "CustomerID": "603324763049295872",
         "Imgur": "https://imgur.com/a/fKpyVF8",
         "Service": "$750 exchange"
+    },
+    {
+        "Number_ID": "274",
+        "Date": "17-09-2022",
+        "Comment": "bought 20k steam points  ❤",
+        "AccountID": "76561199055119067",
+        "Links_comment": "",
+        "CustomerID": "549829491531186179",
+        "Imgur": "https://imgur.com/a/fR0uqbr",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "275",
+        "Date": "18-09-2022",
+        "Comment": "Vouch $70 b4u",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/310",
+        "Links_comment": "Ticket #310",
+        "CustomerID": "664413773309804544",
+        "Imgur": "https://imgur.com/a/7RAeVXl",
+        "Service": "$70 B4U"
+    },
+    {
+        "Number_ID": "276",
+        "Date": "18-09-2022",
+        "Comment": "Vouch exchanged $1000. 10/10 returning customer",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=538049",
+        "Links_comment": "Urie",
+        "CustomerID": "603324763049295872",
+        "Imgur": "https://imgur.com/a/zjQZAiB",
+        "Service": "$1000 exchange"
+    },
+    {
+        "Number_ID": "277",
+        "Date": "18-09-2022",
+        "Comment": "Another one $600 exchange",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=538050",
+        "Links_comment": "Urie",
+        "CustomerID": "603324763049295872",
+        "Imgur": "https://imgur.com/a/FzHz784",
+        "Service": "$600 exchange"
+    },
+    {
+        "Number_ID": "278",
+        "Date": "18-09-2022",
+        "Comment": "vouch $1.1k exchange",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/313",
+        "Links_comment": "Ticket #313",
+        "CustomerID": "122065805746765825",
+        "Imgur": "https://imgur.com/a/FzHz784",
+        "Service": "$1100 exchange"
     }
 ]
