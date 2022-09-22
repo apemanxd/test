@@ -1692,7 +1692,7 @@
 
 		//Finner Om det er discord ID
 		if (length(local_data[i].CustomerID) >= 24) {
-			accountID = (' <td class="column2">' + '<a target="_blank" href="cbacdc-b13ff466b7-e9c7a3' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
+			accountID = (' <td class="column2">' + '<a target="_blank" href="https://dashboard.sellix.io/invoices/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
 		} else if(length(local_data[i].CustomerID) >= 18){
 			accountID = (' <td class="column2">' + '<a target="_blank" href="https://lookup.guru/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
 		}
