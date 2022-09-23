@@ -1693,10 +1693,10 @@
 		//Finner Om det er discord ID
 		if (length(local_data[i].CustomerID) >= 24) {
 			accountID = (' <td class="column2">' + '<a target="_blank" href="https://dashboard.sellix.io/invoices/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
-		} else if(length(local_data[i].CustomerID) >= 18){
+		} else if (length(local_data[i].CustomerID) >= 18) {
 			accountID = (' <td class="column2">' + '<a target="_blank" href="https://lookup.guru/' + local_data[i].CustomerID + '">' + local_data[i].CustomerID + '</a>' + '</td>');
 		}
-		
+
 		else {
 			accountID = (' <td class="column2">' + local_data[i].CustomerID + '</td>');
 		}
@@ -1704,10 +1704,10 @@
 		//Steam points URL or custom URL
 		if (local_data[i].Links_comment === "") {
 			link = (' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/' + local_data[i].AccountID + '/awards">' + local_data[i].AccountID + '</a>' + '</td>');
-			console.log("Steam URL for steam points")
+
 		} else {
 			link = (' <td class="column3">' + '<a target="_blank" href="' + local_data[i].AccountID + '">' + local_data[i].Links_comment + '</a>' + '</td>');
-			console.log("Custom link and text")
+
 		}
 
 
@@ -1721,7 +1721,7 @@
 			' <td class="column6">' + '<a target="_blank" href="' + local_data[i].Imgur + '">' + local_data[i].Imgur + '</a>' + '</td>' +
 
 			'</tr>';
-		
+
 
 	}
 
