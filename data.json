@@ -2928,5 +2928,135 @@ var data = [
         "CustomerID": "946286214552625203",
         "Imgur": "https://imgur.com/a/jpJvKhW",
         "Service": "30k"
+    },
+    {
+        "Number_ID": "292",
+        "Date": "26-09-2022",
+        "Comment": "vouch, bought b4u off him, went smoothly and fast :D",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/340",
+        "Links_comment": "Ticket #340",
+        "CustomerID": "703911273477439519",
+        "Imgur": "https://imgur.com/a/OyxNuQx",
+        "Service": "$50 B4U"
+    },
+    {
+        "Number_ID": "293",
+        "Date": "26-09-2022",
+        "Comment": "+vouch @apeman  [10k] steam points fast work!",
+        "AccountID": "76561197992394417",
+        "Links_comment": "",
+        "CustomerID": "394252988904112128",
+        "Imgur": "https://imgur.com/a/X1ryKXb",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "294",
+        "Date": "27-09-2022",
+        "Comment": "rep sold me disney plus account great HQ user",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/348",
+        "Links_comment": "Ticket #348",
+        "CustomerID": "788546729636397081",
+        "Imgur": "",
+        "Service": "Disney Account"
+    },
+    {
+        "Number_ID": "295",
+        "Date": "27-09-2022",
+        "Comment": "+rep @apeman f1tv, works great",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/349",
+        "Links_comment": "Ticket #349",
+        "CustomerID": "539154013124558858",
+        "Imgur": "",
+        "Service": "F1"
+    },
+    {
+        "Number_ID": "296",
+        "Date": "27-09-2022",
+        "Comment": "+rep @apeman 80$ Exchange, Fast And Easy 👍",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/350",
+        "Links_comment": "Ticket #350",
+        "CustomerID": "840323259920154707",
+        "Imgur": "https://imgur.com/a/jHK6zJh",
+        "Service": "$80 Exchange"
+    },
+    {
+        "Number_ID": "297",
+        "Date": "27-09-2022",
+        "Comment": "+rep, DAZN month account, great as always",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/351",
+        "Links_comment": "Ticket #351",
+        "CustomerID": "539154013124558858",
+        "Imgur": "",
+        "Service": "Dazn"
+    },
+    {
+        "Number_ID": "298",
+        "Date": "28-09-2022",
+        "Comment": "+rep @apeman, 150k steam points in total, Fast and smooth deal",
+        "AccountID": "76561197960887597",
+        "Links_comment": "",
+        "CustomerID": "656276329611788309",
+        "Imgur": "https://imgur.com/a/2YSejsz",
+        "Service": "70k"
+    },
+    {
+        "Number_ID": "299",
+        "Date": "28-09-2022",
+        "Comment": "+rep @apeman, 100k steam points fast and smooth will be buying more",
+        "AccountID": "76561199022090379",
+        "Links_comment": "",
+        "CustomerID": "950201479342473246",
+        "Imgur": "https://imgur.com/a/CsVk6Cs",
+        "Service": "100k"
+    },
+    {
+        "Number_ID": "300",
+        "Date": "29-09-2022",
+        "Comment": "+rep @Amin made me a logo & signature thx",
+        "AccountID": "https://panel.ticketsbot.net/manage/975038201611837512/transcripts/view/336",
+        "Links_comment": "Ticket #336",
+        "CustomerID": "331060769573568512",
+        "Imgur": "In ticket",
+        "Service": "Design"
+    },
+    {
+        "Number_ID": "301",
+        "Date": "29-09-2022",
+        "Comment": "received, 10/10 service fastest exchange",
+        "AccountID": "https://ogu.gg/member.php?action=profile&uid=225198",
+        "Links_comment": "page",
+        "CustomerID": "@yusufbtc",
+        "Imgur": "https://imgur.com/a/DL5H4yW",
+        "Service": "$100 exchange"
+    },
+    {
+        "Number_ID": "302",
+        "Date": "01-10-2022",
+        "Comment": "",
+        "AccountID": "76561197981158247",
+        "Links_comment": "",
+        "CustomerID": "612832390712393729",
+        "Imgur": "https://imgur.com/a/tqXXwv1",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "303",
+        "Date": "01-10-2022",
+        "Comment": "👌 thank u boss",
+        "AccountID": "https://moralis.io/pricing",
+        "Links_comment": "Pro plan",
+        "CustomerID": "@murderb222",
+        "Imgur": "https://imgur.com/a/dVyT4hb",
+        "Service": "$66 B4U"
+    },
+    {
+        "Number_ID": "304",
+        "Date": "02-10-2022",
+        "Comment": "",
+        "AccountID": "76561199226358217",
+        "Links_comment": "",
+        "CustomerID": "254245852955148288",
+        "Imgur": "https://imgur.com/a/1gaSMj5",
+        "Service": "10k"
     }
 ]
