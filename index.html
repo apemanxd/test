@@ -1702,7 +1702,7 @@
 		}
 
 		//Steam points URL or custom URL
-		if (local_data[i].Links_comment === "") {
+		if (local_data[i].Links_comment === null) {
 			link = (' <td class="column3">' + '<a target="_blank" href="http://steamcommunity.com/profiles/' + local_data[i].AccountID + '/awards">' + local_data[i].AccountID + '</a>' + '</td>');
 
 		} else {
