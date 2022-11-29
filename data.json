@@ -1722,7 +1722,7 @@ var data = [
     {
         "Number_ID": "171",
         "Date": "12-06-2022",
-        "Comment": null,
+        "Comment": "Ys",
         "AccountID": "76561198399155386",
         "Links_comment": null,
         "CustomerID": "Unknown",
@@ -3625,7 +3625,7 @@ var data = [
         "Comment": "+vouch @apeman bought 60k!:-)",
         "AccountID": "76561198142275597",
         "Links_comment": null,
-        "CustomerID": "957331466289831997",
+        "CustomerID": "808758335633096795",
         "Imgur": "https://imgur.com/a/2zxi98F",
         "Service": "30k"
     },
@@ -3633,9 +3633,9 @@ var data = [
         "Number_ID": "362",
         "Date": "09-11-2022",
         "Comment": "+vouch @apeman bought 60k!:-)",
-        "AccountID": "76561198142275597",
+        "AccountID": "76561199052837271",
         "Links_comment": null,
-        "CustomerID": "957331466289831997",
+        "CustomerID": "76561199052837271",
         "Imgur": "https://imgur.com/a/LFmNQ7h",
         "Service": "30k"
     },
@@ -3665,7 +3665,7 @@ var data = [
         "Comment": "Fast and easy $250 exchange",
         "AccountID": null,
         "Links_comment": null,
-        "CustomerID": "Uknown",
+        "CustomerID": "1040609877376118784",
         "Imgur": "https://imgur.com/a/YgYh6yN",
         "Service": "$250 exchange"
     },
@@ -3738,5 +3738,235 @@ var data = [
         "CustomerID": "@xxx21222",
         "Imgur": "https://imgur.com/a/CEBrblE",
         "Service": "$105 exchange"
+    },
+    {
+        "Number_ID": "373",
+        "Date": "15-11-2022",
+        "Comment": "Back again to the trust worthy apeman $450 exchange",
+        "AccountID": null,
+        "Links_comment": null,
+        "CustomerID": "1020088839852806205",
+        "Imgur": "https://imgur.com/a/isFgdak",
+        "Service": "$450 exchange"
+    },
+    {
+        "Number_ID": "374",
+        "Date": "17-11-2022",
+        "Comment": "+rep @apeman purchased steam points quick and easy",
+        "AccountID": "76561198444062826",
+        "Links_comment": null,
+        "CustomerID": "487953369667993600",
+        "Imgur": "https://imgur.com/a/wQVHk7G",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "375",
+        "Date": "19-11-2022",
+        "Comment": "Ez points",
+        "AccountID": "76561198992527687",
+        "Links_comment": null,
+        "CustomerID": "968334565561225307",
+        "Imgur": "https://imgur.com/a/drPt3Ru",
+        "Service": "50k"
+    },
+    {
+        "Number_ID": "376",
+        "Date": "20-11-2022",
+        "Comment": "+vouch @apeman b4u, super fast felt surreal",
+        "AccountID": null,
+        "Links_comment": null,
+        "CustomerID": "367341421616693259",
+        "Imgur": "https://imgur.com/a/IUirqt2",
+        "Service": "$66 b4u"
+    },
+    {
+        "Number_ID": "377",
+        "Date": "20-11-2022",
+        "Comment": "Sellix",
+        "AccountID": "76561198093017755",
+        "Links_comment": "Sellix",
+        "CustomerID": "29a176-804e9514d1-71c7a8",
+        "Imgur": "https://imgur.com/a/SSpuTn5",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "378",
+        "Date": "21-11-2022",
+        "Comment": "Fast $250 b4u",
+        "AccountID": null,
+        "Links_comment": null,
+        "CustomerID": "766111058552553482",
+        "Imgur": "https://imgur.com/a/aSOmmIR",
+        "Service": "$260 b4u"
+    },
+    {
+        "Number_ID": "379",
+        "Date": "22-11-2022",
+        "Comment": "Cheers thank you I appreciate it",
+        "AccountID": "76561199308346680",
+        "Links_comment": "Sellapp",
+        "CustomerID": "Order #451389",
+        "Imgur": "https://imgur.com/a/EHCvvH5",
+        "Service": "100k"
+    },
+    {
+        "Number_ID": "380",
+        "Date": "22-11-2022",
+        "Comment": "vouch @apeman was fast and efficient, in addition to resolving the doubts I had. Thank you",
+        "AccountID": "76561198905507155",
+        "Links_comment": null,
+        "CustomerID": "543469214145445892",
+        "Imgur": "https://imgur.com/a/aAHhw88",
+        "Service": "100k"
+    },
+    {
+        "Number_ID": "381",
+        "Date": "23-11-2022",
+        "Comment": "+rep @apeman quick deal",
+        "AccountID": "Wise",
+        "Links_comment": null,
+        "CustomerID": "822836244262027314",
+        "Imgur": "https://imgur.com/a/nYa4T0J",
+        "Service": "$40 b4u"
+    },
+    {
+        "Number_ID": "382",
+        "Date": "23-11-2022",
+        "Comment": "Another 50k steam points. Fast and easy",
+        "AccountID": "76561197961188013",
+        "Links_comment": null,
+        "CustomerID": "466478766869315586",
+        "Imgur": "https://imgur.com/a/h8GdAWY",
+        "Service": "50k"
+    },
+    {
+        "Number_ID": "383",
+        "Date": "24-11-2022",
+        "Comment": "Fast and easy $250 exchange",
+        "AccountID": null,
+        "Links_comment": null,
+        "CustomerID": "822836244262027314",
+        "Imgur": "https://imgur.com/a/QxFetRU",
+        "Service": "$256 exchange"
+    },
+    {
+        "Number_ID": "384",
+        "Date": "25-11-2022",
+        "Comment": "Steam points 20k",
+        "AccountID": "76561199086176128",
+        "Links_comment": "SOS",
+        "CustomerID": "https://ogu.gg/member.php?action=profile&uid=474480",
+        "Imgur": "https://imgur.com/a/pEI2hNo",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "385",
+        "Date": "25-11-2022",
+        "Comment": "Steam points 20k",
+        "AccountID": "76561198186356982",
+        "Links_comment": "Waste",
+        "CustomerID": "https://ogu.gg/member.php?action=profile&uid=54796",
+        "Imgur": "https://imgur.com/a/5nA9M0O",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "386",
+        "Date": "25-11-2022",
+        "Comment": "Fast and easy",
+        "AccountID": "76561198309544819",
+        "Links_comment": "SellApp",
+        "CustomerID": "Order ID 459696",
+        "Imgur": "https://imgur.com/a/eRLrtl3",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "387",
+        "Date": "26-11-2022",
+        "Comment": "Another 50k steam points. Fast and easy",
+        "AccountID": "76561197996877224",
+        "Links_comment": null,
+        "CustomerID": "466478766869315586",
+        "Imgur": "https://imgur.com/a/ghZT2yI",
+        "Service": "50k"
+    },
+    {
+        "Number_ID": "388",
+        "Date": "26-11-2022",
+        "Comment": "+vouch @apeman Won a giveaway of 10k steam points, received them quick and easy.",
+        "AccountID": "76561199001711745",
+        "Links_comment": null,
+        "CustomerID": "542393421604585493",
+        "Imgur": "https://imgur.com/a/YpQMV2K",
+        "Service": "10k"
+    },
+    {
+        "Number_ID": "389",
+        "Date": "26-11-2022",
+        "Comment": "Steam points 20k",
+        "AccountID": "76561199438544666",
+        "Links_comment": null,
+        "CustomerID": "1038402478644928592",
+        "Imgur": "https://imgur.com/a/CjEe7V8",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "390",
+        "Date": "27-11-2022",
+        "Comment": "Back again with another exchange. €300 fast and easy",
+        "AccountID": null,
+        "Links_comment": "smurren",
+        "CustomerID": "2132290911",
+        "Imgur": "https://imgur.com/a/R2pRoHd",
+        "Service": "$350 exchange"
+    },
+    {
+        "Number_ID": "391",
+        "Date": "27-11-2022",
+        "Comment": "+vouch @apeman purchased 25 tf2 keys smooth and quick",
+        "AccountID": "76561198381006076",
+        "Links_comment": null,
+        "CustomerID": "272492565075591168",
+        "Imgur": "https://imgur.com/a/iRQx7R1",
+        "Service": "25x TF2 keys"
+    },
+    {
+        "Number_ID": "392",
+        "Date": "27-11-2022",
+        "Comment": "Steam points 20k",
+        "AccountID": "76561198248838346",
+        "Links_comment": "Roggi",
+        "CustomerID": "https://ogu.gg/member.php?action=profile&uid=346796",
+        "Imgur": "https://imgur.com/a/w8GO5WX",
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "393",
+        "Date": "28-11-2022",
+        "Comment": "+vouch @apeman bought 1 mil points, also have dealt in the past so hes a very HQ seller!",
+        "AccountID": "76561198189313163",
+        "Links_comment": null,
+        "CustomerID": "142861574439174144",
+        "Imgur": "https://imgur.com/a/8gr23ax",
+        "Service": "1 Million"
+    },
+    {
+        "Number_ID": "394",
+        "Date": "28-11-2022",
+        "Comment": "Steam points 20k",
+        "AccountID": "76561199027630183",
+        "Links_comment": "https://ogu.gg/member.php?action=profile&uid=285407",
+        "CustomerID": "Drex",
+        "Imgur": null,
+        "Service": "20k"
+    },
+    {
+        "Number_ID": "395",
+        "Date": "28-11-2022",
+        "Comment": "+vouch @apeman b4u service smooth & easy went first :)) will use again!",
+        "AccountID": null,
+        "Links_comment": null,
+        "CustomerID": "1034078751190945842",
+        "Imgur": "https://imgur.com/a/Q0rLwFn",
+        "Service": "$100 b4u"
     }
 ]
