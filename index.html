@@ -72,8 +72,16 @@
 <script src="js/apeman.js" type="9917f83a9486abcf6d2c9532-text/javascript"></script>
 <script>
     let count, vouches = [];
-    fetch("https://34fe-157-90-74-87.eu.ngrok.io")
+    fetch("https://34fe-157-90-74-87.eu.ngrok.io", {
+        headers: {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"
+        },
+        method: "GET",
+        mode: "no-cors"
+    })
         .then(function (resp) {
+            console.log(resp);
             return resp.json();
         })
         .then(function (data) {
