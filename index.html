@@ -70,16 +70,11 @@
         data-cf-settings="9917f83a9486abcf6d2c9532-|49" defer=""></script>
 </body>
 <script src="js/apeman.js" type="9917f83a9486abcf6d2c9532-text/javascript"></script>
-<script>
+
+	
+	<script>
     let count, vouches = [];
- fetch("http://157.90.74.87:5500/vouches", {
-        headers: {
-            "Content-Type": "application/json",
-            "Access-Control-Allow-Origin": "*"
-        },
-        method: "GET",
-        mode: "no-cors"
-    })
+ fetch("http://157.90.74.87:5500/vouches")
         .then(function (resp) {
             console.log(resp);
             return resp.json();
